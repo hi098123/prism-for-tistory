@@ -46,4 +46,5 @@ body 마지막에 안붙여넣으면 오류가 발생할수 있습니다.
 	<script src="https://cdn.jsdelivr.net/gh/hi098123/prism-for-tistory/prism-vbnet.js"></script>
 </body>
 ```
-#
+# PRISM.JS (MIT License)
+https://github.com/PrismJS/prism
